@@ -12,3 +12,14 @@
     margin-top: 60px;
     background-color:white;
 }
+
+.slides {
+    margin-left: 6%;
+    width: 73%;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 4px 6px 0 rgba(0, 0, 0, 0.19);
+}
+
+.activity-description {
+    margin: auto;
+    margin-left: 5%;
+}

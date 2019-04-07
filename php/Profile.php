@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!— Required meta tags —>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!— Bootstrap CSS —>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/agreektourism.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <title> #Agreektourism </title>
+  </head>
+  <body>
+    <div class="agreeknavbar">
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffffff;">
+            <a class="navbar-brand" href="index.php">
+            <img src="../public/assets/logo.jpg" width="100%" height="100%">
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup" >
+            <div class="navbar-nav">
+                <a class="nav-item nav-link" href="InsertActivity.php" style="margin-left: 700px;">Προσθέστε την ιδέα σας</a>
+                <a class="nav-item nav-link" href="#" style="margin-left: 30px;">Σχετικά με εμάς</a>
+            </div>
+            </div>
+        </nav>
+    </div>
+    <div class="row justify-content-md-center">
+        <div class="col">
+            <a href="index.php">
+                <img class="profilepic" src="../public/assets/tasia.jpg">
+            </a>
+            <h5 style="margin-top:4%;margin-left:290px;"> <b> Αναστασία Δρόση </b> </h5>
+        </div>
+        <div class="col">
+            <div class="farm-contact">
+                    <h6><i class="fas fa-map-pin"></i><b>  Διεύθυνση: </b></h6>
+                    <p> Λευκάδος 2, Ελάτη Τρικάλων, 16218</p>
+                    <h6><i class="fas fa-phone"></i><b>  Τηλέφωνο: </b></h6>
+                    <p> 2441076552</p>
+                    <h6><i class="fas fa-envelope"></i><b>  Ηλεκτρονική Διεύθυνση: </b></h6>
+                    <p> anastdrosi@gmail.com</p>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-left:5%;margin-top:5%;">
+        <div class="col">
+            <div class="row" style="margin-left:2%;">
+                <div class="col">
+                    <h4> <b> Οι δραστηριότητές μου </b> </h4>
+                        <div class="container" style="margin-right:5%;">
+                                <div class="card flex-row flex-wrap">
+                                    <div class="card-header border-0">
+                                        <img width="150px" src="https://images.pexels.com/photos/672358/pexels-photo-672358.jpeg?cs=srgb&dl=adventure-clouds-environment-672358.jpg&fm=jpg" alt="">
+                                    </div>
+                                    <div class="card-block px-2">
+                                        <h5 style="margin-top:2%;" class="card-title">Πεζοπορία στην Ελάτη</h5>
+                                        <p class="card-text"> Ελάτε και ζήστε μια μοναδική πεζοπορία.</p>
+                                        <a href="#" class="btn btn-primary btn-sm" style="margin-bottom:2%;margin-left: 70%;"> Προβολή </a>
+                                    </div>
+                                    <div class="w-100"></div>
+                                </div>
+                                <br>
+                                <div class="card flex-row flex-wrap">
+                                        <div class="card-header border-0">
+                                            <img width="150px" src="../public/assets/dancingtasia.jpg" alt="">
+                                        </div>
+                                        <div class="card-block px-2">
+                                            <h5 style="margin-top:2%;" class="card-title">Επαφή με την παράδοση</h5>
+                                            <p class="card-text">Μάθετε την παραδοσιακή μας μουσική.</p>
+                                            <a href="#" class="btn btn-primary btn-sm" style="margin-bottom:2%;margin-left: 70%;"> Προβολή </a>
+                                        </div>
+                                        <div class="w-100"></div>
+                                    </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="row" style="margin-left:2%;">
+                <div class="col">
+                    <h4> <b> Τα προιόντα μου </b> </h4>
+                    <div class="container">
+                            <div class="card flex-row flex-wrap">
+                                <div class="card-header border-0">
+                                    <img width="150px" src="https://images.pexels.com/photos/41958/honey-honey-jar-honey-for-sale-beekeeper-41958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="">
+                                </div>
+                                <div class="card-block px-2">
+                                    <h5 style="margin-top:2%;" class="card-title">Μέλι ελάτου</h5>
+                                    <p class="card-text"> Το μοναδικό μέλι απο τα έλατα μας. </p>
+                                    <a href="#" class="btn btn-primary btn-sm" style="margin-bottom:2%;margin-left: 70%;"> Προβολή </a>
+                                </div>
+                                <div class="w-100"></div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!— Footer —>
+    <hr style="margin-top: 10%;">
+    <div style="background-color: white;">
+      <!— Copyright —>
+      <div class="footer-copyright text-center py-3">© 2019 Copyright:
+        <a href="https://mdbootstrap.com/education/bootstrap/"> Team 69</a>
+      </div>
+      <!— Copyright —>
+    </div>
+    <!— Footer —>
+    <!— Optional JavaScript —>
+    <!— jQuery first, then Popper.js, then Bootstrap JS —>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
